@@ -1,0 +1,7 @@
+git config --global user.name DRILLE-BAIANO
+git config --global user.email duduzimhard@gmail.com
+npx create-expo-app@latest StikerSmash
+
+cd StikerSmash
+
+npm  run
