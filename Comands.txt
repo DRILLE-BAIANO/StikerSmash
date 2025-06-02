@@ -4,4 +4,4 @@ npx create-expo-app@latest StikerSmash
 
 cd StikerSmash
 
-npx expo startyy
+npx expo start
