@@ -4,4 +4,12 @@ npx create-expo-app@latest StikerSmash
 
 cd StikerSmash
 
-npx expo start
+npx create-expo-app@latest StickerSmash
+
+cd StickerSmash
+
+npm run reset-project
+
+npx expo start --localhost --android
+
+npm install dom-to-image
